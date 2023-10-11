@@ -1,4 +1,4 @@
-import { Montserrat } from "next/dist/compiled/@next/font/dist/google";
+import { Montserrat } from "next/font/google";
 
 export const Colors = {
   highlight: '#e72640',
